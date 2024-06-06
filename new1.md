@@ -14,3 +14,8 @@ dir
 ```sh
 dir
 ```
+
+Удаление файла
+```sh
+del <file name>
+```
