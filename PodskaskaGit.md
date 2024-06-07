@@ -10,7 +10,7 @@ git init
 git add
 ```
 
-
+Запись в репозиторий с комментариями:
 ```sh
 git commit -m "Message"
 ```
