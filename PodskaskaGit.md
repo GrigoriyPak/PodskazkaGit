@@ -14,7 +14,7 @@ git add
 ```sh
 git commit -m "Message"
 ```
-
+Вывод списка сохраненных данных репозитория: 
 ```sh
 git log
 ```
