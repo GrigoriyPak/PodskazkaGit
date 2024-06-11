@@ -48,4 +48,9 @@ git status
 git branch
 ```
 
+Создание новой ветки:
+```sh
+git branch <branch_name>
+```
+
 
